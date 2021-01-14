@@ -1,1 +1,2 @@
-#The name of the Repositorie "git_project" 
+#The name of the repository "git_repository" 
+End
