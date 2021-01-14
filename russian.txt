@@ -1,7 +1,2 @@
 Hello, russian!
-<<<<<<< HEAD
-collapse
-=======
-updated
-linux 
->>>>>>> 40ff56b183979b62ed790ab0f3c5bbf09631b5b3
+
